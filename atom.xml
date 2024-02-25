@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://itbeta.github.io</id>
+    <title>IT Beta - DevOps Johnson Y</title>
+    <updated>2024-02-25T03:34:42.350Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://itbeta.github.io"/>
+    <link rel="self" href="https://itbeta.github.io/atom.xml"/>
+    <subtitle>I will try everythings to make it work and work better.
+我會把幻想變成現實並不斷改進</subtitle>
+    <logo>https://itbeta.github.io/images/avatar.png</logo>
+    <icon>https://itbeta.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, IT Beta - DevOps Johnson Y</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World again 2024!]]></title>
+        <id>https://itbeta.github.io/hello-2024/</id>
+        <link href="https://itbeta.github.io/hello-2024/">
+        </link>
+        <updated>2024-02-02T09:43:29.000Z</updated>
+    </entry>
+</feed>
