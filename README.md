@@ -2,6 +2,9 @@
 
 使用 [Eleventy](https://www.11ty.dev/) 建立的靜態博客,部署在 GitHub Pages。
 
+> **⚠️ 首次設置必讀**
+> 如果訪問 https://itbeta.github.io 顯示 404，請先完成 [GitHub Pages 設置](SETUP_GUIDE.md)
+
 ## 功能特點
 
 - ✅ 完整支援繁體中文(香港地區)
